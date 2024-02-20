@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[9247],{5421:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/Lets-Do-Wiki/blog/tags/hola","allTagsPath":"/Lets-Do-Wiki/blog/tags","count":1,"unlisted":false}')}}]);
