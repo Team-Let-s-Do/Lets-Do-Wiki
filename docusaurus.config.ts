@@ -90,8 +90,9 @@ const config: Config = {
         },
         {
           href: 'https://github.com/Team-Let-s-Do',
-          label: 'GitHub',
           position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
