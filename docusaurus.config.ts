@@ -85,14 +85,15 @@ const config: Config = {
         },
         {
           href: 'https://discord.gg/let-s-do-collection-1078796799185277079',
-          label: 'Discord',
           position: 'right',
+          className: 'header-discord-link',
+          'aria-label': 'Discord',
         },
         {
           href: 'https://github.com/Team-Let-s-Do',
           position: 'right',
           className: 'header-github-link',
-          'aria-label': 'GitHub repository',
+          'aria-label': 'GitHub',
         },
       ],
     },
