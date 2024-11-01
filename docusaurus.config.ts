@@ -84,10 +84,15 @@ const config: Config = {
           label: 'Home',
         },
         {
+            type: 'docsVersionDropdown',
+            position: 'left',
+            dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+            dropdownActiveClassDisabled: true,
+        },
+        {
           href: 'https://discord.gg/let-s-do-collection-1078796799185277079',
           position: 'right',
-          className: 'header-discord-link',
-          'aria-label': 'Discord',
+          label: 'Discord',
         },
         {
           href: 'https://github.com/Team-Let-s-Do',
