@@ -86,7 +86,12 @@ const config: Config = {
         {
             type: 'docsVersionDropdown',
             position: 'left',
-            dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+            dropdownItemsAfter: [
+              {
+                type: 'html',
+                value: '<hr class="dropdown-separator">',
+              }
+            ],
             dropdownActiveClassDisabled: true,
         },
         {
