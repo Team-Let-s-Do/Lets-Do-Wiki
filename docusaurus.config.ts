@@ -40,6 +40,7 @@ const config: Config = {
       'classic',
       {
         docs: {
+          lastVersion: 'current',
           sidebarPath: './sidebars.ts',
         },
         blog: {
