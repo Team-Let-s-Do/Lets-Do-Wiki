@@ -82,12 +82,12 @@ const config: Config = {
         },
         {
           href: 'https://discord.gg/let-s-do-collection-1078796799185277079',
-          position: 'right',
+          position: 'left',
           label: 'Discord',
         },
         {
           type: 'docsVersionDropdown',
-          position: 'left',
+          position: 'right',
           dropdownItemsAfter: [
               {
                 type: 'html',
