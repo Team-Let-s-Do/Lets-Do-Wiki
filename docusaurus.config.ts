@@ -75,30 +75,30 @@ const config: Config = {
       },
       items: [
         {
-          type: 'localeDropdown',
-          position: 'left',
-        },
-        {
           type: 'docSidebar',
           sidebarId: 'mainSidebar',
           position: 'left',
           label: 'Home',
         },
         {
-            type: 'docsVersionDropdown',
-            position: 'left',
-            dropdownItemsAfter: [
+          href: 'https://discord.gg/let-s-do-collection-1078796799185277079',
+          position: 'right',
+          label: 'Discord',
+        },
+        {
+          type: 'docsVersionDropdown',
+          position: 'left',
+          dropdownItemsAfter: [
               {
                 type: 'html',
                 value: '<hr class="dropdown-separator">',
               }
-            ],
-            dropdownActiveClassDisabled: true,
+          ],
+          dropdownActiveClassDisabled: true,
         },
         {
-          href: 'https://discord.gg/let-s-do-collection-1078796799185277079',
+          type: 'localeDropdown',
           position: 'right',
-          label: 'Discord',
         },
         {
           href: 'https://github.com/Team-Let-s-Do',
