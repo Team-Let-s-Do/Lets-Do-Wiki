@@ -117,14 +117,3 @@ Only flowers tagged as #small_flowers can be placed in the Window Sill.
 <BlockIcon modId="farmcharm" imageId="toolrack.png" description="Ideal for storing tools and pans." />
 
 Provides convenient storage for tools and pans.
-
-***
-
-## Scarecrow
-<BlockIcon modId="farmcharm" imageId="scarecrow.png" description="Increases crop growth speed within range and is awarded for crafting all Food Items." />
-
-The Scarecrow boosts crop growth speed by 10% within a small range. It is animated and sways with the wind, varying with weather conditions.
-
----
-
-Thank you for playing Farm & Charm! ❤️

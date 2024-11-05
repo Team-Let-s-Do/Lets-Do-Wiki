@@ -44,13 +44,3 @@ With the use of [ClothConfig](https://modrinth.com/mod/cloth-config), you can mo
 Some changes require restarting the game before they take effect.
 
 :::
-
-## Contributing
-We are always very grateful for any help, whether it's implementing additional compatibility, improving code, or translating mods.
-
-However, please consider the following:
-
-* Avoid overly aggressive changes
-* Follow existing practices, methods, and naming conventions
-* Document your changes
-* Test your changes before pushing them to the main branch
