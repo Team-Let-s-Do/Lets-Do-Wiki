@@ -5,9 +5,11 @@ sidebar_position: 3
 import { ItemIcon } from '@site/src/components/modules/Icon';
 import Image from '@site/src/components/modules/Image';
 
-# Food
+# Items
 
-<Image modId="farmcharm" imageId="oatmeal_with_strawberries.png" description="Food items available in Farm & Charm" pixelated="false" />
+## Food
+
+<ItemIcon modId="farmcharm" imageId="oatmeal_with_strawberries.png" description="Food items available in Farm & Charm" pixelated="false" />
 
 ... of course, all the crops, fruits, and berries must have a use: food!
 
@@ -21,7 +23,7 @@ Each meal has different saturation and hunger values and provides various effect
 
 ## Tea
 <ItemIcon modId="farmcharm" imageId="nettle_tea.png" description="Tea brewed from wild plants and water." />
-Tea is brewed from wild plants and water in a cooking pot. The ideal introduction to HerbalBrews.
+Tea is brewed from wild plants and water in a cooking pot. The ideal introduction to [HerbalBrews](/docs/herbalbrews).
 
 Want to share the tea with your friends? Place the tea jug and take an extra cup of tea by - while holding a glass bottle and targeting the tea jug - right-clicking.
 
@@ -37,7 +39,7 @@ Better throw it away. Or throw it at other creatures (...players?) to hit them. 
 
 ## Dog Food
 <ItemIcon modId="farmcharm" imageId="dog_food.png" description="Food for dogs that tames wolves." />
-Can be fed to wolves. Tames wild wolves on the first try. Also imparts the 'Dog Food' effect.
+Can be fed to wolves. Tames wild wolves on the first try. Also imparts the ['Dog Food' effect](effects.md).
 
 ***
 
@@ -49,13 +51,13 @@ Can be fed to cats. Has a high chance of taming the cat on the spot. Wild cats w
 
 ## Horse Fodder
 <ItemIcon modId="farmcharm" imageId="horse_fodder.png" description="Fodder for horses that tames them." />
-Can be fed to horses. Tames wild horses on the first try. Also imparts the 'Horse Fodder' effect.
+Can be fed to horses. Tames wild horses on the first try. Also imparts the ['Horse Fodder' effect](effects.md).
 
 ***
 
 ## Chicken Feed
 <ItemIcon modId="farmcharm" imageId="chicken_feed.png" description="Feed for chickens that imparts a special effect." />
-Can be fed to chickens. Also imparts the 'Cluck!' effect.
+Can be fed to chickens. Also imparts the ['Cluck!' effect](effects.md).
 
 :::note
 Players can also eat it... Then something happens... hmm.
@@ -74,6 +76,6 @@ Applies the Bone Meal effect over a large area.
 
 The Scarecrow boosts crop growth speed by 10% within a small range. It is animated and sways with the wind, varying with weather conditions.
 
----
+<br />
 
 Thank you for playing Farm & Charm! ❤️
