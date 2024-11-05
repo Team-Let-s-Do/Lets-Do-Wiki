@@ -5,7 +5,7 @@ import Icon from '@site/src/components/modules/Icon';
 import List2 from '@site/src/components/modules/List2';
 
 
-# Misc
+# Miscellaneous
 ## World Generation
 
 <Icon modId="vinery" imageId="apple_tree_sapling.png" description="After successfully adding Vinery to your mods, you will be able to discover various new plant species in newly generated chunks. Some of these will be more common, while others will be rarer to find. So keep your eyes open!" type="misc" />

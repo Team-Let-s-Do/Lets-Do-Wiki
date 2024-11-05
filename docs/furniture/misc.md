@@ -4,7 +4,7 @@ sidebar_position: 2
 
 import Image from '@site/src/components/modules/Image';
 
-# Misc
+# Miscellaneous
 
 ## Pells
 My research has shown that these things are called Pells. Sounds strange, but it's true – or maybe I just did poor research. Anyway:
