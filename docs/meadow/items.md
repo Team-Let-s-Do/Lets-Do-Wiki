@@ -8,7 +8,7 @@ import Image from '@site/src/components/modules/Image';
 
 # Items
 ## Alpine Salt
-<ItemIcon modId="meadow" imageId="alpine_salt.png" description="Alpine Salt can exclusively be found in Meadow biomes in limestone formations at any height. Alternatively, it can also be synthesized in a [Cooking Cauldron](blocks.md#cooking-cauldron) from Calcite or Limestone." />
+<ItemIcon modId="meadow" imageId="alpine_salt.png" description="Alpine Salt can exclusively be found in Meadow biomes in limestone formations at any height. Alternatively, it can also be synthesized in a [Cooking Cauldron](blocks#cooking-cauldron) from Calcite or Limestone." />
 
 Alpine Salt is one of the basic ingredients for cheese making.
 

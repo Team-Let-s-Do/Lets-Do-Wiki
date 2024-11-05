@@ -29,7 +29,7 @@ The cheese wheel located in the output slot is also displayed within the block i
 ***
 
 ## Cooking Cauldron
-<BlockIcon modId="meadow" imageId="cooking_cauldron.png" description="The Cooking Cauldron is your primary crafting station for crafting [rennet](items.md#rennet), delicious meals and other cooked recipes." />
+<BlockIcon modId="meadow" imageId="cooking_cauldron.png" description="The Cooking Cauldron is your primary crafting station for crafting [rennet](items#rennet), delicious meals and other cooked recipes." />
 
 ### Usage
 The Cooking Cauldron works similarly to the already known crafting stations in Minecraft: It has 6 input slots for ingredients (top left)one output slot (middle right), and an indicator of whether it is on a hot (lit) surface. Like the Cheese Press, it also offers a built-in [recipe book](common.md#recipe-book) that displays all available recipes and the ingredients required for them.
@@ -76,7 +76,7 @@ Once you've placed the bread and cheese in the input slot, it takes a few second
 ***
 
 ## Cheese Wheel
-<BlockIcon modId="meadow" imageId="wheel_of_grain_cheese.png" description="Cheese Wheels are made by using a the [Cheese Press](blocks.md#cheese-press)." />
+<BlockIcon modId="meadow" imageId="wheel_of_grain_cheese.png" description="Cheese Wheels are made by using a the [Cheese Press](blocks#cheese-press)." />
 
 There are 7 types of cheeses in Meadow:
 * Normal cheese

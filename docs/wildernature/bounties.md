@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Items
+# Bounties
 
 ## Your own Bounties!
 Adding your own bounties is quite simple. I will briefly explain how to do it here.
@@ -12,7 +12,8 @@ Adding your own bounties is quite simple. I will briefly explain how to do it he
 
 First, you need a `target predicate`, which looks like this:
 
-```{
+```
+{
   "condition": "minecraft:damage_source_properties",
   "predicate": {
     "direct_entity": {
