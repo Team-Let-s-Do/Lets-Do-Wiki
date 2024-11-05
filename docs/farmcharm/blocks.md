@@ -114,7 +114,7 @@ Only flowers tagged as #small_flowers can be placed in the Window Sill.
 ***
 
 ## Toolrack
-<BlockIcon modId="farmcharm" imageId="toolrack.png" description="Ideal for storing tools and pans." />
+<BlockIcon modId="farmcharm" imageId="tool_rack.png" description="Ideal for storing tools and pans." />
 
 Provides convenient storage for tools and pans.
 
