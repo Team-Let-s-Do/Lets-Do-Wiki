@@ -14,15 +14,20 @@ However, please consider the following:
 * Document your changes
 * Test your changes before pushing them to the main branch
 
+***
+
 ## Contributing to the Wiki
-We welcome contributions to the Let's do wiki! Whether you want to improve existing documentation, add new content, or fix typos, your efforts are appreciated. Here are some guidelines for contributing to the wiki:
+We welcome contributions to the Let's do Wiki! Whether you want to improve existing documentation, add new content, or fix typos, your efforts are appreciated. Here are some guidelines for contributing to the Wiki:
 
 * Make sure to follow the same standards of clarity and accuracy that we strive for in our mod documentation.
 * If you're unsure about how to format something, check existing pages for consistency.
-* Feel free to suggest new topics or sections that could be beneficial to users.
+* Feel free to suggest new topics or sections that could be beneficial to users on the [GitHub Issues](https://github.com/Team-Let-s-Do/Lets-Do-Wiki/issues).
+* You want to conteibute but you dont know what. Look what other Users suggest!
+
+***
 
 ## How to Contribute via GitHub
-The Farm & Charm project uses GitHub for version control and collaboration. Here’s a brief overview of how you can contribute:
+The Let's do project uses GitHub for version control and collaboration. Here’s a brief overview of how you can contribute:
 
 1. **Fork the Repository**: Click the "Fork" button on the top right of the repository page to create your copy of the project.
 2. **Clone Your Fork**: Clone your fork to your local machine using `git clone <your-fork-url>`.
