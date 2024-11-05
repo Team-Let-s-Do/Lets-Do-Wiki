@@ -20,15 +20,6 @@ Most of the [Crops](/docs/farmcharm/misc.md#worldgen) got moved to Farm&Charm.
 ### Strawberries (in F&C now)
 <BlockIcon modId="bakery" imageId="wild_strawberries1.png" description="These can mainly be found in temperate biomes. The spawn chance is the same in all biomes." />
 
-Strawberries specifically spawn in the following biomes:
-* Plains 
-* Meadow
-* Sunflower Plains
-* River
-* Taiga and all sub-variants 
-* Jungle and all sub-variants 
-* Savanna and all sub-variants
-
 ***
 
 ## Small Cooking Pot
