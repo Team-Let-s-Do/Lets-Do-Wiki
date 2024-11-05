@@ -4,6 +4,7 @@ sidebar_position: 2
 
 import { BlockIcon } from '@site/src/components/modules/Icon';
 import Image from '@site/src/components/modules/Image';
+import BlockList from '@site/src/components/modules/Image';
 
 # Blocks
 
