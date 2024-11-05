@@ -45,7 +45,6 @@ Can transport up to 2 players as well as plenty of items and blocks. It can also
 **Plow**  
 Ideal for creating larger areas of farmland. Drag the cart over grass blocks for this purpose - they will then be converted into farmland.
 
-<br>
 
 ### Usage
 
