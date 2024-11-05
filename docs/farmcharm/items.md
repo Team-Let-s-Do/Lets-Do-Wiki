@@ -71,6 +71,8 @@ Enhanced Bone Meal
 
 Applies the Bone Meal effect over a large area.
 
+***
+
 ## Scarecrow
 <ItemIcon modId="farmcharm" imageId="scarecrow.png" description="Increases crop growth speed within range and is awarded for crafting all Food Items." />
 

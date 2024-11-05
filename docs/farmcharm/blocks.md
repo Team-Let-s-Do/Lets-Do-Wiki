@@ -8,7 +8,7 @@ import Image from '@site/src/components/modules/Image';
 # Blocks
 
 ## Stove
-<BlockIcon modId="farmcharm" imageId="stove.png" description="The Stove is your primary crafting station for making pastries and bread. It also serves as a heat source for the [Cooking Pot](blocks.md#cooking-pot) and [Roaster](blocks.md#roaster)." pixelated="false" />
+<BlockIcon modId="farmcharm" imageId="stove.png" description="The Stove is your primary crafting station for making pastries and bread. It also serves as a heat source for the [Cooking Pot](blocks#cooking-pot) and [Roaster](blocks#roaster)." pixelated="false" />
 
 ### Usage
 The block works similarly to other crafting stations in Minecraft: It has 3 input slots for ingredients (top left), one input slot for a fuel source (bottom left), and one output slot (middle right). It also offers a built-in [recipe book](common.md#recipe-book) that displays all available recipes and the ingredients required.
@@ -71,7 +71,7 @@ Right-click with an item to place it in the silo. Use the silo hatch to open or 
 ***
 
 ## Fertilized Soil
-<BlockIcon modId="farmcharm" imageId="fertilized_soil.png" description="Can be used to quickly grow fields or converted to [fertilized farmland](blocks.md#fertilized-farmland)." pixelated="false" />
+<BlockIcon modId="farmcharm" imageId="fertilized_soil.png" description="Can be used to quickly grow fields or converted to [fertilized farmland](blocks#fertilized-farmland)." pixelated="false" />
 
 ### Usage
 Right-click with a hoe to convert it into fertilized farmland. Right-click with a pitchfork to apply a Bone Meal effect to nearby crops. Each fertilized soil block can be used up to 4 times.

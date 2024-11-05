@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Let\'s Do Wiki',
-  tagline: 'Wiki for all the [Let\'s Do Team]\'s mods',
+  tagline: 'Wiki for all the [Let\'s Do] Team\'s mods',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
