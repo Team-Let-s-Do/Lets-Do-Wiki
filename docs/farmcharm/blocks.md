@@ -8,17 +8,19 @@ import Image from '@site/src/components/modules/Image';
 # Blocks
 
 ## Stove
-<BlockIcon modId="farmcharm" imageId="stove.png" description="The Stove is your primary crafting station for making pastries and bread. It also serves as a heat source for the [Cooking Pot](blocks#cooking-pot) and [Roaster](blocks#roaster)." pixelated="false" />
+<BlockIcon modId="farmcharm" imageId="stove.png" description="The Stove is your primary crafting station for making pastries and bread. It also serves as a heat source for the Cooking Pot." pixelated="false" />
 
 ### Usage
-The block works similarly to other crafting stations in Minecraft: It has 3 input slots for ingredients (top left), one input slot for a fuel source (bottom left), and one output slot (middle right). It also offers a built-in [recipe book](common.md#recipe-book) that displays all available recipes and the ingredients required.
+The block works similarly to the already known crafting stations in Minecraft: It has 3 input slots for ingredients (top left), one input slot for a fuel source (bottom left), and one output slot (middle right). It also offers a built-in [recipe book](common.md#recipe-book) that displays all available recipes and the ingredients required for them.
 
-Once you've placed the ingredients needed for the recipe into the corresponding input slots, it takes about 12 seconds for the crafting process to complete. Crafting items requires a fuel source, such as coal or charcoal.
+Once you've placed the ingredients needed for the respective recipe into the corresponding input slots, it takes about 12 seconds for the crafting process to complete - the crafted item then appears in the output slot. Crafting all items requires a valid item in the fuel slot - this can be either coal, charcoal, or other items.
 
-<Image modId="farmcharm" imageId="stove_baking.png" align="center" />
+<Image modId="bakery" imageId="stove_gui.png" align="center" />
 
 :::info
-The items in both the output and input slots are displayed within the block in the game world.
+
+The items located in both the output and input slots are also displayed within the block in the game world.
+
 :::
 
 ***
@@ -51,24 +53,45 @@ The Mincer has no direct interface and operates by right-clicking to add valid i
 ***
 
 ## Crafting Bowl
-<BlockIcon modId="farmcharm" imageId="crafting_bowl.png" description="Used to make dough, cereals, salads, and more." />
+<BlockIcon modId="farmcharm" imageId="crafting_bowl.png" description="The Crafting Bowl is used to make various types of dough." />
 
 ### Usage
-The Crafting Bowl functions through direct interaction, with a capacity of up to 4 items. After placing the required ingredients, you can stir the whisk in the bowl to start crafting, which is shown with an animation.
+Like the Caking Station, the Crafting Bowl also has no interface and functions through direct interaction. The Crafting Bowl has a capacity of up to a maximum of 4 items.
+
+Once you have placed the correct ingredients inside, you can stir the whisk in the bowl to start the dough-making process. This is visually represented with an animation.
 
 :::note
-You need an empty hand to start the process.
+
+You need an empty hand to start the manufacturing process.
+
 :::
 
 ***
 
 ## Silo
-<BlockIcon modId="farmcharm" imageId="silo_copper.png" description="Modular structure for drying items with an expandable capacity." />
+The silo is needed to dry harvested wheat, barley, or corn. The silo is modular and can be expanded in both width and height. The larger the silo, the higher the capacity and the shorter the drying time.
 
 ### Usage
-Right-click with an item to place it in the silo. Use the silo hatch to open or close it by right-clicking. When open, items inside the silo will dry automatically.
+Right-click with the item to be dried to place it in the silo.\
+Right-click to open the silo hatch (when closed).\
+Right-click to close the silo hatch (when open).
 
-***
+The content also dries with the hatch open. When the hatch is closed, the content will not be emptied automatically.
+
+<BlockList modId="brewery" list={silos} />
+
+export const silos = [
+{
+"name": "Wooden Silo",
+"imageId": "silo_wood.png",
+"description": "Can be crafted in a Crafting Table by 3*3 planks of any sort."
+},
+{
+"name": "Copper Silo",
+"imageId": "silo_copper.png",
+"description": "Can be upgraded from a Wooden Silo by using copper and a Sentry smithing template."
+}
+];
 
 ## Fertilized Soil
 <BlockIcon modId="farmcharm" imageId="fertilized_soil.png" description="Can be used to quickly grow fields or converted to [fertilized farmland](blocks#fertilized-farmland)." pixelated="false" />
@@ -113,7 +136,7 @@ Only flowers tagged as #small_flowers can be placed in the Window Sill.
 
 ***
 
-## Toolrack
+## Tool Rack
 <BlockIcon modId="farmcharm" imageId="tool_rack.png" description="Ideal for storing tools and pans." />
 
 Provides convenient storage for tools and pans.

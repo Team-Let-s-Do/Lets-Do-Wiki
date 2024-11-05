@@ -25,10 +25,14 @@ import Icon from '@site/src/components/modules/Icon';
 | **Wild Carrots**          |   X    |                  |       |         |          |   X   |   X    |       |   X    |
 | **Wild Strawberries**     |   X    |                  |       |         |          |   X   |   X    |       |   X    |
 
-
 Depending on the type of crop, they spawn with varying frequency. While you'll easily find some of these, you may need to take a little trip into the wilderness for others.
 
 The respective wild crops are the perfect source to easily obtain the respective seeds and grains.
+
+:::note
+1. Crops will also spawn in modded biomes as long as their using the respective biome tags.
+2. You will not be able to find crops in chunks that have already been generated before adding the mods.
+:::
 
 <Image modId="farmcharm" imageId="display_worldgen.png" align="center" />
 

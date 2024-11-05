@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 import { ItemList } from '@site/src/components/modules/List';
@@ -25,8 +25,6 @@ As a reward for wearing the full set, you become immune to the harmful [effects]
 
 ## Completionist Banner
 <ItemIcon modId="brewery" imageId="beer_standard.png" description="The Completionist Banner is awarded to all players who have crafted all Beverages from the Brewery Mod." />
-
-**Note:** To receive the respective Advancements, you need all the items in your inventory at the same time.
 
 <br />
 

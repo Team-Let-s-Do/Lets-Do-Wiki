@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 import Icon from '@site/src/components/modules/Icon';
 
@@ -14,7 +14,5 @@ It ensures that your food exhaustion levels are managed, especially when they’
 
 ***
 
-## Sweets
-<Icon modId="bakery" imageId="sweets.png" description="The „SweetsEffect“ boosts your attributes, such as movement speed, attack speed, and attack damage, making you more effective in navigating and fighting." type="effect"/>
-
-It’s particularly handy during adventures or combat situations, giving you an edge in overcoming challenges. Stackable up to 10 times.
+## More
+More effects are found in [Farm&Charm](/docs/farmcharm/effects.md)

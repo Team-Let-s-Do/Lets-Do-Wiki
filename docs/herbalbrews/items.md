@@ -67,8 +67,6 @@ export const ingredients = [
 ## Completionist Banner
 <ItemIcon modId="herbalbrews" imageId="herbalbrews_standard.png" description="The Completionist Banner is awarded to all players who have crafted all Tea Variants from the HerbalBrews Mod." />
 
-**Note:** To receive the respective Advancements, you need all the items in your inventory at the same time.
-
 <br />
 
 Thank you for playing HerbalBrews! ❤️

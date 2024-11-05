@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 import { BlockIcon } from '@site/src/components/modules/Icon';
@@ -10,16 +10,14 @@ import Image from '@site/src/components/modules/Image';
 ## Wild Crops
 After successfully adding Bakery to your mods, you will be able to discover various new plant species in newly generated chunks. Some of these will be more common, while others will be rarer to find. So keep your eyes open!
 
-:::note
-
-You will not be able to find crops in chunks that have already been generated.
-
+:::info
+Most of the [Crops](/docs/farmcharm/misc.md#worldgen) got moved to Farm&Charm.
 :::
 
-### Oat
+### Oat (in F&C now)
 <BlockIcon modId="bakery" imageId="oat_stage5_2.png" description="You can primarily find oat in Plains biomes in the form of a small farmland structure. There is also a chance to find it in various village structures as well as pillager outposts, woodland mansions, or in the small Bakery structure." />
 
-### Strawberries
+### Strawberries (in F&C now)
 <BlockIcon modId="bakery" imageId="wild_strawberries1.png" description="These can mainly be found in temperate biomes. The spawn chance is the same in all biomes." />
 
 Strawberries specifically spawn in the following biomes:
@@ -30,30 +28,6 @@ Strawberries specifically spawn in the following biomes:
 * Taiga and all sub-variants 
 * Jungle and all sub-variants 
 * Savanna and all sub-variants
-
-:::info
-
-Strawberries will also spawn in modded biomes as long as their using the respective biome tags.
-
-:::
-
-***
-
-## Stove
-<BlockIcon modId="bakery" imageId="stove.png" description="The Stove is your primary crafting station for making pastries and bread. It also serves as a heat source for the Cooking Pot." pixelated="false" />
-
-### Usage
-The block works similarly to the already known crafting stations in Minecraft: It has 3 input slots for ingredients (top left), one input slot for a fuel source (bottom left), and one output slot (middle right). It also offers a built-in [recipe book](common.md#recipe-book) that displays all available recipes and the ingredients required for them.
-
-Once you've placed the ingredients needed for the respective recipe into the corresponding input slots, it takes about 12 seconds for the crafting process to complete - the crafted item then appears in the output slot. Crafting all items requires a valid item in the fuel slot - this can be either coal, charcoal, or other items.
-
-<Image modId="bakery" imageId="stove_gui.png" align="center" />
-
-:::info
-
-The items located in both the output and input slots are also displayed within the block in the game world.
-
-:::
 
 ***
 

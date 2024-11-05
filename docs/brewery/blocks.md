@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 import { BlockList } from '@site/src/components/modules/List';
 import { BlockIcon } from '@site/src/components/modules/Icon';
@@ -10,6 +10,10 @@ import { BlockIcon } from '@site/src/components/modules/Icon';
 ## Wild Crops
 After successfully adding Brewery to your mods, you will be able to discover various new plant species in newly generated chunks. Some of these will be more common, while others will be rarer to find. So keep your eyes open!
 
+:::info
+Most of the [Crops](/docs/farmcharm/misc.md#worldgen) got moved to Farm&Charm.
+:::
+
 <BlockList modId="brewery" list={wildCrops} />
 
 export const wildCrops = [
@@ -19,12 +23,12 @@ export const wildCrops = [
     "description": "Can mostly be found in taiga biomes and all sub-variants. It can also be found in Villages and / or Woodland Mansions."
   },
   {
-    "name": "Corn",
+    "name": "Corn (in F&C now)",
     "imageId": "corn.png",
     "description": "Can be found in Villages. If you having trouble finding Kernels just throw some Beetroot Seeds on a Stonecutter and enjoy your freshly... cut Kernels."
   },
   {
-    "name": "Barley",
+    "name": "Barley (in F&C now)",
     "imageId": "barley.png",
     "description": "Same as Corn. If you having trouble finding Barley Seeds just throw some Wheat Seeds on a Stonecutter and enjoy your freshly cut Barley Seeds."
   }

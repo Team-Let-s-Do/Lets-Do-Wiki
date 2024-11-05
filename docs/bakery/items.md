@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 import { ItemList } from '@site/src/components/modules/List';
@@ -24,8 +24,6 @@ Not all items and blocks can be placed in all storage blocks.
 
 ## Completionist Banner
 <ItemIcon modId="bakery" imageId="bakery_standard.png" description="The Completionist Banner is awarded to all players who have crafted every Baked Good from the Bakery Mod." />
-
-**Note:** To receive the respective Advancements, you need all the items in your inventory at the same time.
 
 <br />
 

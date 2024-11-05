@@ -19,6 +19,6 @@ Creepers fear you and run away in panic (mostly at least!) when you wear this cl
 
 ***
 
-## Completionist Banner
+## Blunderbuss
 <ItemIcon modId="wildernature" imageId="blunderbuss.png" description="Available by completing certain bounties." />
 A Thunderbluss. Loud! Requires ammunition. Sets hit enemies on fire. Short reload time, medium range, incredibly inaccurate.

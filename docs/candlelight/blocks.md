@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 import { BlockList } from '@site/src/components/modules/List';
 import { BlockIcon } from '@site/src/components/modules/Icon';
@@ -10,16 +10,20 @@ import Image from '@site/src/components/modules/Image';
 ## Wild Crops
 After successfully adding Candlelight to your mods, you will be able to discover various new plant species in newly generated chunks. Some of these will be more common, while others will be rarer to find. So keep your eyes open!
 
+:::info
+Most of the [Crops](/docs/farmcharm/misc.md#worldgen) got moved to Farm&Charm.
+:::
+
 <BlockList modId="candlelight" list={wildCrops} />
 
 export const wildCrops = [
   {
-    "name": "Tomatoes",
+    "name": "Tomatoes (in F&C now)",
     "imageId": "wild_tomatoes_3.png",
     "description": "Can mostly be found in plains, savanna and badlands biomes and all sub-variants. It can also be found in Villages."
   },
   {
-    "name": "Lettuce",
+    "name": "Lettuce (in F&C now)",
     "imageId": "wild_lettuce_1.png",
     "description": "Can mostly be found in plains, swamp as well as taiga and forest biomes and all sub-variants."
   }
@@ -88,9 +92,4 @@ You can store all rings that use a correct ring tag in it.
 
 ## Chocolate Box
 <BlockIcon modId="candlelight" imageId="chocolate_box.png" description="A box full of luck! ... or chocolate. You can eat from it up to 6 times after placing it. Share it with your friends or eat it all by yourself." />
-
-***
-
-## Tool Rack
-<BlockIcon modId="candlelight" imageId="tool_rack.png" description="The ideal storage solution for your tools and pans." />
 

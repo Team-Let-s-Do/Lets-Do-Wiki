@@ -20,8 +20,6 @@ In the [config](common.md#config), you can adjust how much durability the set lo
 ## Completionist Banner
 <ItemIcon modId="vinery" imageId="vinery_standard.png" description="The Completionist Banner is awarded to all players who have crafted all Wines from the Vinery Mod." />
 
-**Note:** To receive the respective Advancements, you need all the items in your inventory at the same time.
-
 <br />
 
 Thank you for playing Brewery! ❤️

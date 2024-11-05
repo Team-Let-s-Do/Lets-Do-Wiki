@@ -46,8 +46,6 @@ It offers only a little protection, but you'll look fabulous!
 ## Completionist Banner
 <ItemIcon modId="meadow" imageId="meadow_standard.png" description="The Completionist Banner is awarded to all players who have crafted all Cheese Variants from the Meadow Mod." />
 
-**Note:** To receive the respective Advancements, you need all the items in your inventory at the same time.
-
 <br />
 
 Thank you for playing Brewery! ❤️

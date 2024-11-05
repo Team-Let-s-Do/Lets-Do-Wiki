@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 import { ItemList } from '@site/src/components/modules/List';
@@ -38,8 +38,6 @@ Write the letter and sign it. Now, while holding the envelope in your main hand,
 
 ## Completionist Banner
 <ItemIcon modId="candlelight" imageId="candlelight_standard.png" description="The Completionist Banner is awarded to all players who have crafted all different Foods from the Candlelight Mod." />
-
-**Note:** To receive the respective Advancements, you need all the items in your inventory at the same time.
 
 <br />
 
