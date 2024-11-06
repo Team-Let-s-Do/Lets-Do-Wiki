@@ -50,22 +50,6 @@ Upon completion, you can dismantle and pick up the respective end product.
 
 ***
 
-## Crafting Bowl
-<BlockIcon modId="bakery" imageId="crafting_bowl.png" description="The Crafting Bowl is used to make various types of dough." />
-
-### Usage
-Like the Caking Station, the Crafting Bowl also has no interface and functions through direct interaction. The Crafting Bowl has a capacity of up to a maximum of 4 items.
-
-Once you have placed the correct ingredients inside, you can stir the whisk in the bowl to start the dough-making process. This is visually represented with an animation.
-
-:::info
-
-You need an empty hand to start the manufacturing process.
-
-:::
-
-***
-
 ## Cakes
 <BlockIcon modId="bakery" imageId="strawberry_cake.png" description="Congratulations on your first cake!" />
 
