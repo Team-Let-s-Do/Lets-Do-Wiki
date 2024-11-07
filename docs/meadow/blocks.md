@@ -76,7 +76,7 @@ Once you've placed the bread and cheese in the input slot, it takes a few second
 ***
 
 ## Cheese Wheel
-<BlockIcon modId="meadow" imageId="wheel_of_grain_cheese.png" description="Cheese Wheels are made by using a the [Cheese Press](blocks#cheese-press)." />
+<BlockIcon modId="meadow" imageId="wheel_of_grain_cheese.png" description="Cheese Wheels are made by using a the [Cheese Press](#cheese-press)." />
 
 There are 7 types of cheeses in Meadow:
 * Normal cheese
