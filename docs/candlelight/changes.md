@@ -14,7 +14,7 @@ These versions require the [Let's Do] [Farm&Charm mod](/docs/farmcharm) as a dep
 
 If you want to continue Candlelight without the Farm&Charm support you can do this. I'll keep updating both of them until 1.21 releases - however, the non-compat Version won't get any new features.
 
-**You can find the old Wiki in the [Legacy](/docs/Legacy/intro) version**
+**You can find the old Wiki in the [Legacy](/docs/Legacy/candlelight) version**
 
 :::
 
