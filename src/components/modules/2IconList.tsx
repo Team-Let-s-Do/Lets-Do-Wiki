@@ -12,7 +12,7 @@ export function Image({ modId, type, imageUrl }) {
   );
 }
 
-export default function List2({ modId, list, type }) {
+export default function 2IconList({ modId, list, type }) {
     return (
         <div>
             {list.map((item, index) => (
@@ -27,12 +27,4 @@ export default function List2({ modId, list, type }) {
             ))}
         </div>
     );
-}
-
-export function ItemList2(props) {
-    return <List2 {...props} type="item" />;
-}
-
-export function BlockList2(props) {
-    return <List2 {...props} type="block" />;
 }
