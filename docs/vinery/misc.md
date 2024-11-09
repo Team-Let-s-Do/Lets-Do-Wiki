@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 import Icon from '@site/src/components/modules/Icon';
-import 2IconList from '@site/src/components/modules/List2';
+import 2IconList from '@site/src/components/modules/2IconList';
 
 
 # Miscellaneous
