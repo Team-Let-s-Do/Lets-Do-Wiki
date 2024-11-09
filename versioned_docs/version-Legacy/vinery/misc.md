@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 import Icon from '@site/src/components/modules/Icon';
-import 2IconList from '@site/src/components/modules/2IconList';
+import TwoIconsList from '@site/src/components/modules/TwoIconsList';
 
 
 # Misc
@@ -21,7 +21,7 @@ There is a marginal chance that you will get a rotten cherry. Ugh - please don't
 
 ### Grapes
 
-<2IconList modId="vinery" list={grapes} type="misc" />
+<TwoIconsList modId="vinery" list={grapes} type="misc" />
 
 export const grapes = [
 {

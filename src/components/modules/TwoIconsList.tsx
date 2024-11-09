@@ -12,7 +12,7 @@ export function Image({ modId, type, imageUrl }) {
   );
 }
 
-export default function 2IconList({ modId, list, type }) {
+export default function TwoIconsList({ modId, list, type }) {
     return (
         <div>
             {list.map((item, index) => (
