@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-import { BlockList } from '@site/src/components/modules/IconList';
+import { ItemList } from '@site/src/components/modules/IconList';
 
 
 # Items
 
 ## Backpacks
-<BlockList modId="camping" list={backpacks} />
+<ItemList modId="camping" list={backpacks} />
 
 export const backpacks = [
 {
@@ -33,7 +33,7 @@ export const backpacks = [
 }
 ];
 
-<BlockList modId="camping" list={enderpacks} />
+<ItemList modId="camping" list={enderpacks} />
 
 export const enderpacks = [
 {
