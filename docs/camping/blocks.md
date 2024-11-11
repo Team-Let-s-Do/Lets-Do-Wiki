@@ -36,9 +36,3 @@ The Grill functions similarly to a campfire but with enhanced benefits. It provi
 
 ### Usage
 Place raw food on the Grill to cook it. Just like you would on a campfire!
-
-<Image modId="camping" imageId="grill_in_use.png" align="center" />
-
----
-
-This page covers the essential blocks in the **[Let's Do] Camping** mod. More features, recipes, and interactions will be added as the mod evolves. Enjoy your camping adventure!
