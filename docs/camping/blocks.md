@@ -5,7 +5,7 @@ sidebar_position: 1
 import { BlockIcon } from '@site/src/components/modules/Icon';
 import Image from '@site/src/components/modules/Image';
 
-# [Let's Do] Camping - Blocks
+# Blocks
 
 ## Tents
 <BlockIcon modId="camping" imageId="tent_red.png" description="2x2x2 blocks sized decoration available in every Minecraft color." />

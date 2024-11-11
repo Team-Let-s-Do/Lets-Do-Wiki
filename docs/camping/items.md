@@ -8,10 +8,11 @@ import { ItemIcon } from '@site/src/components/modules/Icon';
 # Items
 
 ## Backpacks
-7 new Backpacks and giving 3 extra rows of storage. That’s it! No additional gimmicks.
+7 new Backpacks which give 3 extra rows of storage. That’s it! No additional gimmicks.
 ### Usage
-While equipped you can press `b` to open the inventory, the key can be changed in the Minecraft configuration. but you can also place the Backpack and right klick to open it.
+While equipped you can press `b` to open the inventory. The key can be changed in the Minecraft configuration. But you can also place the Backpack and right klick to open it.
 
+### Normal Backpacks
 <ItemList modId="camping" list={backpacks} />
 export const backpacks = [
 {
@@ -36,7 +37,8 @@ export const backpacks = [
 }
 ];
 
-But there also are two Ender Backpacks which open your Enderchest inventory.
+### Ender Backpacks
+However, there are also two Ender backpacks that open the Enderchest inventory.
 
 <ItemList modId="camping" list={enderpacks} />
 export const enderpacks = [
