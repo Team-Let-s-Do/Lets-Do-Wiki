@@ -7,8 +7,12 @@ import { ItemIcon } from '@site/src/components/modules/Icon';
 
 # Items
 
+## Multitool
+<ItemIcon modId="camping" imageId="multitool.png" description="With the Multitool you can rotate blocks horizontally and shear sheeps!" />
+
 ## Backpacks
 7 new Backpacks which give 3 extra rows of storage. That’s it! No additional gimmicks.
+
 ### Usage
 While equipped you can press `b` to open the inventory. The key can be changed in the Minecraft configuration. But you can also place the Backpack and right klick to open it.
 
@@ -53,7 +57,7 @@ export const enderpacks = [
 ];
 
 ## Goodybag
-<ItemIcon modId="camping" imageId="goodybag_unused.png" description="The Goodybag is awarded to all players who aquire all Backpacks from the Camping Mod." />
+<ItemIcon modId="camping" imageId="goodybag_unused.png" description="The Goodybag is awarded to all players who acquire all Backpacks from the Camping Mod." />
 
 <br />
 
