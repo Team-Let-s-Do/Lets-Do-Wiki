@@ -13,7 +13,6 @@ import { ItemIcon } from '@site/src/components/modules/Icon';
 While equipped you can press `b` to open the inventory, the key can be changed in the Minecraft configuration. but you can also place the Backpack and right klick to open it.
 
 <ItemList modId="camping" list={backpacks} />
-
 export const backpacks = [
 {
 "name": "Small Backpack",
@@ -37,10 +36,9 @@ export const backpacks = [
 }
 ];
 
-<ItemList modId="camping" list={enderpacks} />
-
-
 But there also are two Ender Backpacks which open your Enderchest inventory.
+
+<ItemList modId="camping" list={enderpacks} />
 export const enderpacks = [
 {
 "name": "Enderpack",
