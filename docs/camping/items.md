@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 import { ItemList } from '@site/src/components/modules/IconList';
-import { ItemIcon } from ‚@site/src/components/modules/Icon‘;
+import { ItemIcon } from '@site/src/components/modules/Icon';
 
 # Items
 
@@ -53,7 +53,7 @@ export const enderpacks = [
 ];
 
 ## Goodybag
-<ItemIcon modId=„camping“ imageId=„goodybag_unused.png“ description=„The Goodybag is awarded to all players who aquire all Backpacks from the Camping Mod.“ />
+<ItemIcon modId="camping" imageId="goodybag_unused.png" description="The Goodybag is awarded to all players who aquire all Backpacks from the Camping Mod." />
 
 <br />
 
