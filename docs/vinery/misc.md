@@ -65,7 +65,7 @@ All Grapes will also spawn in modded biomes as long as they use the respective b
 ***
 
 ## Wine Aging
-<Icon modId="vinery" imageId="calendar.png" description="Every 16 days (384,000 ticks), your wine will gain an additional year of aging and the effect duration gets increased by 1 second, and every six years, it will gain an additional level to its effect up to a maximum effect level of 6." type="misc" />
+<Icon modId="vinery" imageId="calendar.png" description="Every 16 days (384,000 ticks), your wine will gain an additional year of aging which increases the effect duration by 1 second, and every six years, it will gain an additional level to its effect up to a maximum effect level of 6." type="misc" />
 You don't need to perform a special action with your wine to let it age; just leave it in your inventory, a chest, barrel, cabinet, etc.
 
 :::info
